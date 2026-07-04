@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAazTU3sUcUMuyLVqLOAWczOdXB8HIetq4",
+  apikey:"your api key",
   authDomain: "mernai-b1525.firebaseapp.com",
   projectId: "mernai-b1525",
   storageBucket: "mernai-b1525.firebasestorage.app",
